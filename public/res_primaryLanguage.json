@@ -14,10 +14,7 @@
       "title": "Code 401 Final Project",
       "startDate": "2023",
       "description": "A super cool thing-a-ma-whopper",
-      "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
-      ],
+      "images": ["images/portfolio/401-project/ai-pic.jpg"],
       "url": "",
       "technologies": [
         {
@@ -71,28 +68,103 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "California Air National Guard",
+      "title": "Lieutenant Colonel",
+      "years": "06.2019 - present",
+      "mainTech": ["Leadership"],
+      "technologies": []
+    },
+    {
+      "company": "Redacted, Inc.",
+      "title": "Deputy Chief Operating Officer",
+      "years": "10.2018 - 05.2019",
+      "mainTech": ["Leadership"],
+      "technologies": ["Cybersecurity", "Agile", "Confluence"]
+    },
+    {
+      "company": "Federal Bureau of Investigation",
+      "title": "Special Agent",
+      "years": "08.2006 - 10.2018",
+      "mainTech": ["Cybersecurity"],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Network Security operations",
+        "Penetration Testing",
+        "Kali Linux",
+        "Python",
+        "Metasploit"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "SRA International, Inc.",
+      "title": "Analysis Team Leader",
+      "years": "11.2005 - 07.2006",
+      "mainTech": ["Visual Basic for Applications"],
+      "technologies": ["VBA", "SQL Server"]
+    },
+    {
+      "company": "Nobilis Solutions",
+      "title": "Software Developer / Consultant",
+      "years": "11.2002 - 11.2005",
+      "mainTech": ["Visual Basic for Applications"],
+      "technologies": [
+        "PHP",
+        "ASP.NET",
+        "VB.NET",
+        "VBA",
+        "HTML",
+        "CSS",
+        "MySQL"
+      ]
+    },
+    {
+      "company": "Software AG",
+      "title": "Systems Engineer / Channels Account Executive",
+      "years": "07.2000 - 11.2002",
+      "mainTech": ["XML"],
+      "technologies": [
+        "Middleware",
+        "XML Database",
+        "HTML",
+        "CSS",
+        "Mainframe/Minicomputer Databases"
+      ]
+    },
+    {
+      "company": "Epsilon Software Development",
+      "title": "Development Team Lead / Director, Integration Technology",
+      "years": "10.1999 - 04.2000",
+      "mainTech": ["Visual Basic for Applications"],
+      "technologies": ["VBA", "MS SQL Server", "Wang Minicomputer Databases"]
+    },
+    {
+      "company": "Computer Systems Unlimited",
+      "title": "Senior Network Engineer / VP, Technical Support",
+      "years": "01.1995 - 12.1998",
+      "mainTech": ["Networking Technologies"],
+      "technologies": [
+        "Novell Server",
+        "Microsoft NT Server",
+        "Various Network Routers",
+        "Server Hardware"
+      ]
+    },
+    {
+      "company": "Lockheed Missiles and Space Company",
+      "title": "Computer Technician",
+      "years": "10.1989 - 10.1994",
+      "mainTech": ["Computer Hardware"],
+      "technologies": [
+        "Microcomputer/Mainframe/Terminal Component-level Troubleshooting",
+        "Network Troubleshooting (PC, Apple, Mainframe)",
+        "Turbo Pascal",
+        "Visual Basic",
+        "MS Windows",
+        "MS DOS",
+        "Apple OS",
+        "ULTRIX",
+        "Unix",
+        "CPM"
+      ]
     }
   ]
 }
