@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Greetings!",
-    "description": "I have been in love with computer technology since I was 10 years old. I am a long-time IT professional, with 17 years in the tech industry as a software developer and network engineer. I also spent 12 years in the FBI as a Special Agent, where I had the opportunity to gain more experience with cybersecurity and managing large, multi-agency projects. What excites me most in any job is solving problems and bringing success to my organization and team. I have always loved programming, since I was in 3rd grade, and have experience with multiple computer languages, to include JavaScript, Python and PHP. I'm currently looking for a position in software development as either a software engineer or development team leader.",
+    "description": "I have loved technology since I was a kid. I couldn’t get enough of building electronic circuits or programming, starting all the way back in third grade. I turned that passion into a career, and worked 17 years in the IT industry, as a computer technician, software developer and network engineer. And, moved my way up the leadership chain, working as a VP of technical support and the COO of a cybersecurity company. I then switched gears, in order to better serve my country, and become a Special Agent in the FBI for 12 years, where I had the opportunity to continue my passion as both a tech agent and in conducting cyber operations. Alongside my civilian career, I have spent over 25 years in the military reserve and currently serve as a lieutenant colonel in the Air National Guard. One constant across everything I’ve done is that I love problem-solving, and leading and mentoring people. I have experience with multiple computer languages, to include JavaScript, Python and PHP. I'm currently looking for a position in software development as either a software engineer or development team leader.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -11,9 +11,9 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Code 401 Final Project",
+      "startDate": "2023",
+      "description": "A super cool thing-a-ma-whopper",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
@@ -21,28 +21,25 @@
       "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
+      "title": "Memory Game",
+      "startDate": "2022",
+      "description": "A game designed to enhance memory capability, in a fun and addicting way. I built this application as part of a team, where I created almost all the Javascript myself and manage the overall team project, using GitHub Projects.",
+      "images": ["images/portfolio/memory-game/memory-game-screenshot-1.png"],
+      "url": "https://github.com/Vigilos/Memory-Game",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -55,26 +52,19 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
+      "title": "I-Man (Insurance Manager)",
+      "startDate": "2004",
+      "description": "This application brought automated workflows to small insurance brokerage firms. It encompassed all functional areas of a brokerage firm and automated the workflows throughout the client lifecycle, to include sales contact management, policy proposal and sales tracking, customer service management, and financial accounts management. There was an option to store the backend data on a MySQL database. It increased firm efficiency by 100%, allowing the companies using it to double the number of clients they could handle with their current workforce.",
+      "images": ["images/portfolio/i-man/i-man-pic.jpg"],
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-dot-net-plain",
+          "name": "VB.NET"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
         }
       ]
     }
