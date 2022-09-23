@@ -1,17 +1,17 @@
 {
   "basic_info": {
     "name": "Chris Fanucchi",
-    "titles": ["Software Developer"],
+    "titles": ["Seasoned IT Professional / Software Developer"],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/Vigilos",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chris-fanucchi/",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "myProfile.jpg"
