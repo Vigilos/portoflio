@@ -154,7 +154,7 @@
       "years": "10.1989 - 10.1994",
       "mainTech": ["Computer Hardware"],
       "technologies": [
-        "Microcomputer/Mainframe/Terminal Component-level Troubleshooting",
+        "Computer Component-level Troubleshooting",
         "Network Troubleshooting (PC, Apple, Mainframe)",
         "Turbo Pascal",
         "Visual Basic",
@@ -163,6 +163,7 @@
         "Apple OS",
         "ULTRIX",
         "Unix",
+        "VMS",
         "CPM"
       ]
     }
